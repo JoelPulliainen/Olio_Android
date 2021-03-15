@@ -32,7 +32,6 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void beforeTextChanged(CharSequence s, int start, int count,
                                           int after) {
-                // Fires right before text is changing
             }
 
             @Override
@@ -47,8 +46,7 @@ public class MainActivity extends AppCompatActivity {
     public void testFunction (View v) {
 
         String InputToPrint = input.getText().toString();
-        System.out.println("Hello World!");
-        // text.setText("Hello World");
         text.setText(InputToPrint);
+        // text.setText("Hello World");
     }
 }
