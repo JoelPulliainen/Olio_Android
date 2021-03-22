@@ -1,0 +1,11 @@
+com/example/viikko8/BuildConfig.java
+ com.example.viikko8.BuildConfig
+com/example/viikko8/Bottle.java
+ com.example.viikko8.Bottle
+com/example/viikko8/MainActivity.java
+ com.example.viikko8.MainActivity
+ com.example.viikko8.MainActivity$1
+ com.example.viikko8.MainActivity$2
+ com.example.viikko8.MainActivity$3
+com/example/viikko8/BottleDispenser.java
+ com.example.viikko8.BottleDispenser
