@@ -1,0 +1,11 @@
+com/example/viikko9/BuildConfig.java
+ com.example.viikko9.BuildConfig
+com/example/viikko9/RecyclerAdapter.java
+ com.example.viikko9.RecyclerAdapter
+ com.example.viikko9.RecyclerAdapter$MyViewHolder
+com/example/viikko9/ReadXML.java
+ com.example.viikko9.ReadXML
+ com.example.viikko9.Theater
+com/example/viikko9/MainActivity.java
+ com.example.viikko9.MainActivity
+ com.example.viikko9.MainActivity$1
