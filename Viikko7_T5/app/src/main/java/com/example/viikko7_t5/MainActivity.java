@@ -34,7 +34,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
 
-    public void loadTo(View v) {
+    public void save(View v) {
 
         String InputToFile = input.getText().toString();
         String Filename = inputFile.getText().toString();
@@ -53,7 +53,7 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
-    public void save(View v) {
+    public void loadTo(View v) {
 
         String Filename = inputFile.getText().toString();
 
