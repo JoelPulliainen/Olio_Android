@@ -35,7 +35,9 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f7c31dc0-3143-49e5-848d-6059ddfb5edf" name="Default Changelist" comment="" />
+    <list default="true" id="f7c31dc0-3143-49e5-848d-6059ddfb5edf" name="Default Changelist" comment="Viikko9">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -74,7 +76,10 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Viikko8/app/libs" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Viikko10" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="android.template.1506939974">
@@ -212,6 +217,21 @@
         <entry key="1" value="TOOL_WINDOW" />
       </map>
     </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="HEAD" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
@@ -227,6 +247,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="845" y="383" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1616414275107" />
+    <state x="477" y="266" key="#PSD" timestamp="1616495479895">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="477" y="266" key="#PSD/0.0.1920.1040@0.0.1920.1040" timestamp="1616495479895" />
     <state x="765" y="226" key="#com.intellij.ide.util.MemberChooser" timestamp="1615969628119">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -243,14 +267,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1020" y="278" key="AndroidCreateResourceFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1615967385636" />
-    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1616414518126">
+    <state x="92" y="92" width="1720" height="856" key="DiffContextDialog" timestamp="1616495197667">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1616414518126" />
-    <state x="533" y="275" key="FileChooserDialogImpl" timestamp="1616413626742">
+    <state x="92" y="92" width="1720" height="856" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1616495197667" />
+    <state x="533" y="275" key="FileChooserDialogImpl" timestamp="1616495485199">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="533" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1616413626742" />
+    <state x="533" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1616495485199" />
     <state width="1876" height="284" key="GridCell.Tab.0.bottom" timestamp="1616412095050">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -267,6 +291,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1876" height="284" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1616412095050" />
+    <state x="540" y="263" key="IDE.errors.dialog" timestamp="1616495081309">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="540" y="263" key="IDE.errors.dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1616495081309" />
     <state x="9" y="96" key="MergeDialog" timestamp="1616413446784">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -279,10 +307,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="807" y="434" key="VCS.ChangelistChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1616414441423" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1616414513767">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1616495282195">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1616414513767" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1616495282195" />
     <state x="1146" y="267" key="refactoring.ChangeSignatureDialog" timestamp="1615972699710">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
