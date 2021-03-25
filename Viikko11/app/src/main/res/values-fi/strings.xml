@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Viikko11</string>
+    <string name="title_activity_main2">MainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="Read_zone">Lukualue</string>
+    <string name="DisplayText">Sano jotain</string>
+    <string name="Allow_text_change">Salli tekstin muokkaus</string>
+    <string name="Font_size">Fontin koko:</string>
+    <string name="width">Leveys:</string>
+    <string name="height">Korkeus:</string>
+    <string name="Max_lines">Rivien maksimimäärä:</string>
+    <string name="Change">Vaihda kieltä:</string>
+    <string name="Settings">Asetukset</string>
+    <string name="Home">Koti</string>
+</resources>

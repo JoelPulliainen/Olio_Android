@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Week11</string>
+    <string name="title_activity_main2">MainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="Read_zone">Read zone</string>
+    <string name="DisplayText">Tell me something</string>
+    <string name="Allow_text_change">Allow text change</string>
+    <string name="Font_size">Font size:</string>
+    <string name="width">Width:</string>
+    <string name="height">Height:</string>
+    <string name="Max_lines">Max lines:</string>
+    <string name="Change">Change language:</string>
+    <string name="Settings">Settings</string>
+    <string name="Home">Home</string>
+
+</resources>
