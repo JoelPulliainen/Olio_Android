@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:padding="20dp"
+    android:fillViewport="true">
+
+    <ScrollView
+        android:layout_height="400dp"
+        android:layout_width="match_parent">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="20dp" >
+
+            <TextView
+                android:id="@+id/textView3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Frequency of sorting bio waste at home" />
+
+            <Spinner
+                android:id="@+id/bwSpinner"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:scrollbarAlwaysDrawHorizontalTrack="false"
+                android:scrollbars="vertical"
+                android:spinnerMode="dropdown" />
+
+            <TextView
+                android:id="@+id/textView4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Frequency of sorting carton at home" />
+
+            <Spinner
+                android:id="@+id/cSpinner"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:scrollbarAlwaysDrawHorizontalTrack="false"
+                android:scrollbars="vertical"
+                android:spinnerMode="dropdown" />
+
+            <TextView
+                android:id="@+id/textView5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Frequency of sorting Electronic waste at home" />
+
+            <Spinner
+                android:id="@+id/eSpinner"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:scrollbarAlwaysDrawHorizontalTrack="false"
+                android:scrollbars="vertical"
+                android:spinnerMode="dropdown" />
+
+            <TextView
+                android:id="@+id/textView6"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Frequency of sorting Glass waste at home" />
+
+            <Spinner
+                android:id="@+id/gSpinner"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:scrollbarAlwaysDrawHorizontalTrack="false"
+                android:scrollbars="vertical"
+                android:spinnerMode="dropdown" />
+
+            <TextView
+                android:id="@+id/textView7"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Frequency of sorting Hazardous waste at home" />
+
+            <Spinner
+                android:id="@+id/hSpinner"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:scrollbarAlwaysDrawHorizontalTrack="false"
+                android:scrollbars="vertical"
+                android:spinnerMode="dropdown" />
+
+            <TextView
+                android:id="@+id/textView8"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Frequency of sorting Metal waste at homeTextView" />
+
+            <Spinner
+                android:id="@+id/mSpinner"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:scrollbarAlwaysDrawHorizontalTrack="false"
+                android:scrollbars="vertical"
+                android:spinnerMode="dropdown" />
+
+            <TextView
+                android:id="@+id/textView9"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Frequency of sorting waste paper at home" />
+
+            <Spinner
+                android:id="@+id/paSpinner"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:scrollbarAlwaysDrawHorizontalTrack="false"
+                android:scrollbars="vertical"
+                android:spinnerMode="dropdown" />
+
+            <TextView
+                android:id="@+id/textView20"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Frequency of sorting Plastic waste at home" />
+
+            <Spinner
+                android:id="@+id/plSpinner"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:scrollbarAlwaysDrawHorizontalTrack="false"
+                android:scrollbars="vertical"
+                android:spinnerMode="dropdown" />
+
+            <TextView
+                android:id="@+id/textView21"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="User's estimate on how much waste they generate" />
+
+            <Spinner
+                android:id="@+id/aeSpinner"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:scrollbarAlwaysDrawHorizontalTrack="false"
+                android:scrollbars="vertical"
+                android:spinnerMode="dropdown" />
+
+        </LinearLayout>
+
+    </ScrollView>
+</LinearLayout>
