@@ -29,13 +29,34 @@
     <select>
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:github" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:github/master" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </select>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f7c31dc0-3143-49e5-848d-6059ddfb5edf" name="Default Changelist" comment="Viikko9">
+      <change afterPath="$PROJECT_DIR$/../MyHT/app/src/main/java/com/example/myht/ConsumptionCalcEntry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyHT/app/src/main/java/com/example/myht/ConsumptionEntryDialog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyHT/app/src/main/java/com/example/myht/ConsumptionHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyHT/app/src/main/java/com/example/myht/ConsumptionXmlParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyHT/app/src/main/java/com/example/myht/Entry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyHT/app/src/main/java/com/example/myht/EntryActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyHT/app/src/main/java/com/example/myht/FileWriter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyHT/app/src/main/java/com/example/myht/FoodEntryDialog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyHT/app/src/main/java/com/example/myht/HttpHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyHT/app/src/main/java/com/example/myht/JsonConsumption.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyHT/app/src/main/java/com/example/myht/readConsumptionJSON.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyHT/app/src/main/res/layout/activity_entry.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyHT/app/src/main/res/menu/main_drawer.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Viikko8/.gradle/6.5/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../Viikko8/.gradle/6.5/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Viikko8/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../Viikko8/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Viikko8/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../Viikko8/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Viikko8/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/../Viikko8/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Viikko8/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Viikko8/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Viikko8/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Viikko8/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Viikko8/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Viikko8/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -76,7 +97,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Viikko10" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Viikko102" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -201,7 +222,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="master" />
+                        <option value="github/master" />
                       </list>
                     </value>
                   </entry>
@@ -267,14 +288,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1020" y="278" key="AndroidCreateResourceFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1615967385636" />
-    <state x="92" y="92" width="1720" height="856" key="DiffContextDialog" timestamp="1616495197667">
+    <state x="108" y="117" width="861" height="856" maximized="true" key="DiffContextDialog" timestamp="1619193448577">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="92" y="92" width="1720" height="856" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1616495197667" />
-    <state x="533" y="275" key="FileChooserDialogImpl" timestamp="1616495485199">
+    <state x="108" y="117" width="861" height="856" maximized="true" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1619193448577" />
+    <state x="533" y="275" key="FileChooserDialogImpl" timestamp="1618782772688">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="533" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1616495485199" />
+    <state x="533" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1618782772688" />
     <state width="1876" height="284" key="GridCell.Tab.0.bottom" timestamp="1616412095050">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

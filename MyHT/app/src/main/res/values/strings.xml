@@ -1,0 +1,93 @@
+<resources>
+    <string name="app_name">TerveysApp</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="Read_zone">Read zone</string>
+    <string name="DisplayText">Tell me something</string>
+    <string name="Allow_text_change">Allow text change</string>
+    <string name="Font_size">Font size:</string>
+    <string name="width">Width:</string>
+    <string name="height">Height:</string>
+    <string name="Max_lines">Max lines:</string>
+    <string name="Change">Change language:</string>
+    <string name="Settings">Settings</string>
+    <string name="Home">Home</string>
+    <string name="Enter_entrys">Enter entries</string>
+    <string name="Results">Results</string>
+    <string name="Popup_message">Entry saved</string>
+    <string name="Add_Consumption_Entry">Add Consumption Entry</string>
+    <string name="Add_Food_Entry">Add Food Entry</string>
+    <string name="Add_Transport_Entry">Add Transport Entry</string>
+    <string name="Add_Housing_Entry">Add Housing Entry</string>
+    <string name="Add_Weight_Entry">Add Weight Entry</string>
+    <string name="Add_Waste_Entry">Add Waste Entry</string>
+
+    <string-array name="dietList">
+        <item>omnivore</item>
+        <item>vegan</item>
+        <item>vegetarian</item>
+    </string-array>
+
+    <string-array name="housetypeList">
+        <item>none</item>
+        <item>family</item>
+        <item>flat</item>
+        <item>row</item>
+    </string-array>
+
+    <string-array name="heatingmodeList">
+        <item>none</item>
+        <item>district</item>
+        <item>electric</item>
+        <item>wood</item>
+        <item>oil</item>
+        <item>pump</item>
+        <item>airPump</item>
+        <item>selfGenerated</item>
+    </string-array>
+
+    <string-array name="winterheatingList">
+        <item>off</item>
+        <item>always</item>
+        <item>base</item>
+        <item>dry</item>
+    </string-array>
+
+    <string-array name="boattypeList">
+        <item>none</item>
+        <item>sailing</item>
+        <item>rowing</item>
+        <item>motorAluminum</item>
+        <item>motorFiber</item>
+    </string-array>
+
+    <string-array name="wasteChoiceList">
+        <item>never</item>
+        <item>sometimes</item>
+        <item>often</item>
+        <item>always</item>
+    </string-array>
+
+    <string-array name="estimateList">
+        <item>low</item>
+        <item>normal</item>
+        <item>high</item>
+    </string-array>
+
+    <string-array name="chartList">
+        <item>pie</item>
+        <item>line</item>
+    </string-array>
+
+    <string-array name="dataList">
+        <item>Consumption</item>
+        <item>Food</item>
+        <item>Housing</item>
+        <item>Transport</item>
+        <item>Waste</item>
+        <item>Weight</item>
+    </string-array>
+
+
+</resources>
